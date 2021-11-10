@@ -23,9 +23,9 @@
 
 ### 🎓 Mои проекты в Яндекс.Практикум
 
-1.  [How to learn](https://github.io/how-to-learn/)
-2.  [Russian Travel](https://github.io/russian-travel/)
-3.  [Mesto](https://github.io/mesto/index.html)
+1.  [How to learn](https://vladislavsmirnovs.github.io/how-to-learn/)
+2.  [Russian Travel](https://vladislavsmirnovs.github.io/russian-travel/)
+3.  [Mesto](https://vladislavsmirnovs.github.io/mesto/)
 
 ### ⚡ Несколько фактов обо мне:
 
