@@ -35,4 +35,4 @@
 
 ### 📧 Почта: monstop93@mail.ru
 
-### 🌐 Telegram: @JDMlovvvers
+### 🌐 Telegram: @VladislavSmirnovS
