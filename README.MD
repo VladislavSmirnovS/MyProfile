@@ -25,7 +25,7 @@
 
 1.  [How to learn](https://vladislavsmirnovs.github.io/how-to-learn/)
 2.  [Russian Travel](https://vladislavsmirnovs.github.io/russian-travel/)
-3.  [Mesto](https://vladislavsmirnovs.github.io/mesto/)
+3.  [Mesto React](https://github.com/VladislavSmirnovS/react-mesto-auth)
 4.  [Mesto Express](https://github.com/VladislavSmirnovS/express-mesto)
 5.  [Mesto API Full](https://mesto.vladislav.nomoredomains.xyz)
 
